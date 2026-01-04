@@ -17,4 +17,4 @@ A simple loop-based, menu-driven calculator built using Python.
 - Basic error handling
 
 ## Author
-Kj Atchaya
+K J Atchaya
