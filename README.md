@@ -1,17 +1,20 @@
-# python-calculator
-A simple calculator built using Python
+# Python Calculator
+
+A simple loop-based, menu-driven calculator built using Python.
 
 ## Features
 - Addition
 - Subtraction
 - Multiplication
 - Division
+- Runs continuously until user exits
 - Handles division by zero
 
 ## Concepts Used
-- Functions
+- while loop
 - Conditional statements
 - User input
+- Basic error handling
 
 ## Author
-K J Atchaya
+Kj Atchaya
